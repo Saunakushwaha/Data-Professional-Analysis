@@ -4,12 +4,12 @@ Welcome to the Data Professional Analysis repository! This project showcases a c
 Project Overview
 This project utilizes various datasets to demonstrate the capabilities of Power BI in data analysis and visualization. By employing advanced techniques, we aim to provide meaningful insights that can help organizations understand their data better and make informed decisions.
 # Key Features
-Data Cleaning & Preparation: Utilize Power Query to clean and prepare data, ensuring accuracy and consistency for analysis.
-Data Modeling: Establish relationships between different datasets to create a robust data model that supports insightful visualizations.
-Dynamic Dashboards: Develop interactive dashboards that allow users to explore data through dynamic filtering and slicing.
-DAX Measures: Implement DAX (Data Analysis Expressions) to create calculated fields and measures that enhance data analysis capabilities.
-Visualizations: Create a variety of visualizations, including bar charts, line graphs, and scatter plots, to effectively communicate insights.
-Actionable Insights: Analyze data to derive actionable insights that support strategic decision-making for stakeholders.
+* Data Cleaning & Preparation: Utilize Power Query to clean and prepare data, ensuring accuracy and consistency for analysis.
+* Data Modeling: Establish relationships between different datasets to create a robust data model that supports insightful visualizations.
+* Dynamic Dashboards: Develop interactive dashboards that allow users to explore data through dynamic filtering and slicing.
+* DAX Measures: Implement DAX (Data Analysis Expressions) to create calculated fields and measures that enhance data analysis capabilities.
+* Visualizations: Create a variety of visualizations, including bar charts, line graphs, and scatter plots, to effectively communicate insights.
+* Actionable Insights: Analyze data to derive actionable insights that support strategic decision-making for stakeholders.
 # Data Sources
 The project utilizes various datasets, which may include:
 * Client Data: Information regarding clients, including demographics and engagement metrics.
