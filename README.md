@@ -12,15 +12,15 @@ Visualizations: Create a variety of visualizations, including bar charts, line g
 Actionable Insights: Analyze data to derive actionable insights that support strategic decision-making for stakeholders.
 # Data Sources
 The project utilizes various datasets, which may include:
-Client Data: Information regarding clients, including demographics and engagement metrics.
-Employee Data: Details about employees, including job roles, demographics, and performance metrics.
-Operational Data: Data related to operational activities, such as shifts, attendance, and productivity metrics.
+* Client Data: Information regarding clients, including demographics and engagement metrics.
+* Employee Data: Details about employees, including job roles, demographics, and performance metrics.
+* Operational Data: Data related to operational activities, such as shifts, attendance, and productivity metrics.
 
 # Technologies Used
-Microsoft Power BI
-Power Query
-DAX (Data Analysis Expressions)
-CSV Data Files
+* Microsoft Power BI
+* Power Query
+* DAX (Data Analysis Expressions)
+* CSV Data Files
 # Conclusion
 This repository serves as a practical demonstration of data visualization and analysis using Power BI. By leveraging the power of data, we aim to provide insights that can drive business strategies and improve operational efficiency.
 
